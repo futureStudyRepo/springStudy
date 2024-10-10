@@ -44,3 +44,9 @@
    ![alt text](./img/m.png)
  ### 15. server 실행 및 접속 테스트
    ![alt text](./img/n.png)
+
+ ## 이후 
+
+ - DB 연결 및 테스트
+ - 기본 UI 설정
+ 
