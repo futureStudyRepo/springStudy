@@ -14,6 +14,7 @@
  ### 6. 실행 및 workspace 선택
   ![설치폴더](./img/a.PNG)
  ### 7. new -> spring legacy project 선택 (.metadata 생기도록)
+ 
   ![설치폴더](./img/b.PNG)
  ### 8. https-content.xml 위치
 
