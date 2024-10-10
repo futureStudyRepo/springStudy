@@ -16,7 +16,7 @@
  ### 7. new -> spring legacy project 선택 (.metadata 생기도록)
 
   ![설치폴더](./img/b.png)
-  
+
  ### 8. https-content.xml 위치
 
     \.metadata\.plugins\org.springsource.ide.eclipse.commons.content.core
@@ -32,20 +32,20 @@
   - 디폴트 서버 삭제 
   ![설치폴더](./img/f.PNG)
   - new server 선택
-  ![alt text](./img/g.png)
+  ![alt text](./img/g.PNG)
   - apache tomcat 9 (borwse 선택하여 설정 폴더에 있는 톰켓 폴더 선택, jdk 선택)
-  ![alt text](./img/i.png)
+  ![alt text](./img/i.PNG)
 
  ### 11. spring legacy proejct 프로젝트 생성 (project 명 설정, Srping MVC Project 선택)
-  ![alt text](./img/j.png)
+  ![alt text](./img/j.PNG)
  ### 12. pakage 설정 (ex. com.proj.my)
-  ![alt text](./img/k.png)
+  ![alt text](./img/k.PNG)
  ### 13. maven 버전 설정 후 -> Maven -> update project
-  ![alt text](./img/l.png)
+  ![alt text](./img/l.PNG)
  ### 14. servers에 프로젝트 add 
-   ![alt text](./img/m.png)
+   ![alt text](./img/m.PNG)
  ### 15. server 실행 및 접속 테스트
-   ![alt text](./img/n.png)
+   ![alt text](./img/n.PNG)
 
  ## 이후 
 
