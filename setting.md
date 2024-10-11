@@ -34,7 +34,7 @@
   - new server 선택
   ![alt text](./img/g.PNG)
   - apache tomcat 9 (borwse 선택하여 설정 폴더에 있는 톰켓 폴더 선택, jdk 선택)
-  ![alt text](./img/i.PNG)
+  ![alt text](./img/ii.PNG)
 
  ### 11. spring legacy proejct 프로젝트 생성 (project 명 설정, Srping MVC Project 선택)
   ![alt text](./img/j.PNG)
