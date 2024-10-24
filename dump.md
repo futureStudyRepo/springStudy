@@ -38,14 +38,14 @@ expdp system/oracle@xe schemas=jdbc directory=sql_dir dumpfile=jdbc_2024.dmp log
 ```
 
 - `system/oracle@xe`: Oracle 데이터베이스의 관리자 계정과 서비스 이름.
-- `schemas=jdbc`: 덤프 파일을 생성할 스키마 이름.
+- `schemas=jdbc`: 덤프 파일을 생성할 스키마 이름.d
 - `directory=sql_dir`: 앞서 생성한 Oracle 디렉토리 이름.
 - `dumpfile=jdbc_2024.dmp`: 생성할 덤프 파일 이름.
 - `logfile=jdbc_2024.log`: 내보내기 작업 로그를 저장할 파일 이름.
 
 ### 예시:
 
-![dump](/img/dump1.png)
+![dump](./img/dump1.png)
 
 
 ## 3. 덤프 파일 임포트 (Import)
